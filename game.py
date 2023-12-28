@@ -19,5 +19,6 @@ for i in range(5):
         if y>x:
             print('猜低一點!')
         else:
-            print('猜高一點')
+            print('猜高一點!')
+            
  
