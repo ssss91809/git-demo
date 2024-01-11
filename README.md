@@ -146,3 +146,14 @@
 
 ### 複製專案
 - git clone https://github.com/ssss91809/git-demo
+
+
+### 新增/修正/刪除
+- git add .
+- git commit -m "message"
+
+### 本地端同步雲端
+- git push
+
+### 雲端同步到本地端
+- git pull
